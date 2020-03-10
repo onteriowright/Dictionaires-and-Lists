@@ -69,6 +69,7 @@ namespace lists
       wordsAndDefinitions.Add("Awesome", "The feeling of students when they are learning C#");
       wordsAndDefinitions.Add("Great", "The feeling of students when it is Friday");
       wordsAndDefinitions.Add("Lazy", "The feeling of students when it is Monday");
+
       Console.WriteLine(wordsAndDefinitions["Great"]);
       Console.WriteLine(wordsAndDefinitions["Awesome"]);
 
